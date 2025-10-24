@@ -10,5 +10,10 @@
       "description": "General-purpose agent for researching complex questions, searching for code, and executing multi-step tasks."
     }
   },
-  "description": "Claude Code settings for BMAD-METHOD v6-alpha. Agents are enabled to assist with codebase exploration and complex multi-step development tasks."
+  "description": "Claude Code settings for BMAD-METHOD v6-alpha. Agents are enabled to assist with codebase exploration and complex multi-step development tasks.",
+  "bmad": {
+    "enabled": true,
+    "agentRegistry": ".claude/agent-registry.json",
+    "generatedAt": "2025-10-24T01:59:10.305Z"
+  }
 }

@@ -31,6 +31,7 @@
     "flatten": "node tools/flattener/main.js",
     "format": "prettier --write \"**/*.{js,cjs,mjs,json,md,yaml}\"",
     "format:check": "prettier --check \"**/*.{js,cjs,mjs,json,md,yaml}\"",
+    "generate:agents": "node tools/claude-code/generate-agents.mjs",
     "install:bmad": "node tools/installer/bin/bmad.js install",
     "lint": "eslint . --ext .js,.cjs,.mjs,.yaml --max-warnings=0",
     "lint:fix": "eslint . --ext .js,.cjs,.mjs,.yaml --fix",
