@@ -1,0 +1,14 @@
+{
+  "agentMode": "on",
+  "agents": {
+    "Explore": {
+      "enabled": true,
+      "description": "Fast agent specialized for exploring codebases. Use for finding files by patterns, searching code for keywords, or answering questions about the codebase."
+    },
+    "general-purpose": {
+      "enabled": true,
+      "description": "General-purpose agent for researching complex questions, searching for code, and executing multi-step tasks."
+    }
+  },
+  "description": "Claude Code settings for BMAD-METHOD v6-alpha. Agents are enabled to assist with codebase exploration and complex multi-step development tasks."
+}
