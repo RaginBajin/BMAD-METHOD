@@ -8,12 +8,114 @@
     "general-purpose": {
       "enabled": true,
       "description": "General-purpose agent for researching complex questions, searching for code, and executing multi-step tasks."
+    },
+    "bmad-core-bmad-master": {
+      "enabled": true,
+      "description": "🧙 BMad Master Executor, Knowledge Custodian, and Workflow Orchestrator - Master Task Executor + BMad Expert + Guiding Facilitator Orchestrator",
+      "module": "core",
+      "role": "Master Task Executor + BMad Expert + Guiding Facilitator Orchestrator"
+    },
+    "bmad-cis-sophia": {
+      "enabled": true,
+      "description": "📖 Master Storyteller - Expert Storytelling Guide + Narrative Strategist",
+      "module": "cis",
+      "role": "Expert Storytelling Guide + Narrative Strategist"
+    },
+    "bmad-cis-victor": {
+      "enabled": true,
+      "description": "⚡ Disruptive Innovation Oracle - Business Model Innovator + Strategic Disruption Expert",
+      "module": "cis",
+      "role": "Business Model Innovator + Strategic Disruption Expert"
+    },
+    "bmad-cis-maya": {
+      "enabled": true,
+      "description": "🎨 Design Thinking Maestro - Human-Centered Design Expert + Empathy Architect",
+      "module": "cis",
+      "role": "Human-Centered Design Expert + Empathy Architect"
+    },
+    "bmad-cis-dr.-quinn": {
+      "enabled": true,
+      "description": "🔬 Master Problem Solver - Systematic Problem-Solving Expert + Solutions Architect",
+      "module": "cis",
+      "role": "Systematic Problem-Solving Expert + Solutions Architect"
+    },
+    "bmad-cis-carson": {
+      "enabled": true,
+      "description": "🧠 Elite Brainstorming Specialist - Master Brainstorming Facilitator + Innovation Catalyst",
+      "module": "cis",
+      "role": "Master Brainstorming Facilitator + Innovation Catalyst"
+    },
+    "bmad-bmm-sally": {
+      "enabled": true,
+      "description": "🎨 UX Expert - User Experience Designer + UI Specialist",
+      "module": "bmm",
+      "role": "User Experience Designer + UI Specialist"
+    },
+    "bmad-bmm-murat": {
+      "enabled": true,
+      "description": "🧪 Master Test Architect - Master Test Architect",
+      "module": "bmm",
+      "role": "Master Test Architect"
+    },
+    "bmad-bmm-bob": {
+      "enabled": true,
+      "description": "🏃 Scrum Master - Technical Scrum Master + Story Preparation Specialist",
+      "module": "bmm",
+      "role": "Technical Scrum Master + Story Preparation Specialist"
+    },
+    "bmad-bmm-john": {
+      "enabled": true,
+      "description": "📋 Product Manager - Investigative Product Strategist + Market-Savvy PM",
+      "module": "bmm",
+      "role": "Investigative Product Strategist + Market-Savvy PM"
+    },
+    "bmad-bmm-link-freeman": {
+      "enabled": true,
+      "description": "🕹️ Game Developer - Senior Game Developer + Technical Implementation Specialist",
+      "module": "bmm",
+      "role": "Senior Game Developer + Technical Implementation Specialist"
+    },
+    "bmad-bmm-samus-shepard": {
+      "enabled": true,
+      "description": "🎲 Game Designer - Lead Game Designer + Creative Vision Architect",
+      "module": "bmm",
+      "role": "Lead Game Designer + Creative Vision Architect"
+    },
+    "bmad-bmm-cloud-dragonborn": {
+      "enabled": true,
+      "description": "🏛️ Game Architect - Principal Game Systems Architect + Technical Director",
+      "module": "bmm",
+      "role": "Principal Game Systems Architect + Technical Director"
+    },
+    "bmad-bmm-amelia": {
+      "enabled": true,
+      "description": "💻 Developer Agent - Senior Implementation Engineer",
+      "module": "bmm",
+      "role": "Senior Implementation Engineer"
+    },
+    "bmad-bmm-winston": {
+      "enabled": true,
+      "description": "🏗️ Architect - System Architect + Technical Design Leader",
+      "module": "bmm",
+      "role": "System Architect + Technical Design Leader"
+    },
+    "bmad-bmm-mary": {
+      "enabled": true,
+      "description": "📊 Business Analyst - Strategic Business Analyst + Requirements Expert",
+      "module": "bmm",
+      "role": "Strategic Business Analyst + Requirements Expert"
+    },
+    "bmad-bmb-bmad-builder": {
+      "enabled": true,
+      "description": "🧙 BMad Builder - Master BMad Module Agent Team and Workflow Builder and Maintainer",
+      "module": "bmb",
+      "role": "Master BMad Module Agent Team and Workflow Builder and Maintainer"
     }
   },
   "description": "Claude Code settings for BMAD-METHOD v6-alpha. Agents are enabled to assist with codebase exploration and complex multi-step development tasks.",
   "bmad": {
     "enabled": true,
     "agentRegistry": ".claude/agent-registry.json",
-    "generatedAt": "2025-10-24T01:59:10.305Z"
+    "generatedAt": "2025-10-24T02:02:51.995Z"
   }
 }

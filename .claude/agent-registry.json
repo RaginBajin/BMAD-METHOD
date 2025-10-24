@@ -1,0 +1,155 @@
+{
+  "bmad-core-bmad-master": {
+    "id": "bmad-core-bmad-master",
+    "name": "BMad Master",
+    "title": "BMad Master Executor, Knowledge Custodian, and Workflow Orchestrator",
+    "icon": "🧙",
+    "module": "core",
+    "role": "Master Task Executor + BMad Expert + Guiding Facilitator Orchestrator",
+    "filePath": "src/core/agents/bmad-master.agent.yaml"
+  },
+  "bmad-cis-sophia": {
+    "id": "bmad-cis-sophia",
+    "name": "Sophia",
+    "title": "Master Storyteller",
+    "icon": "📖",
+    "module": "cis",
+    "role": "Expert Storytelling Guide + Narrative Strategist",
+    "filePath": "src/modules/cis/agents/storyteller.agent.yaml"
+  },
+  "bmad-cis-victor": {
+    "id": "bmad-cis-victor",
+    "name": "Victor",
+    "title": "Disruptive Innovation Oracle",
+    "icon": "⚡",
+    "module": "cis",
+    "role": "Business Model Innovator + Strategic Disruption Expert",
+    "filePath": "src/modules/cis/agents/innovation-strategist.agent.yaml"
+  },
+  "bmad-cis-maya": {
+    "id": "bmad-cis-maya",
+    "name": "Maya",
+    "title": "Design Thinking Maestro",
+    "icon": "🎨",
+    "module": "cis",
+    "role": "Human-Centered Design Expert + Empathy Architect",
+    "filePath": "src/modules/cis/agents/design-thinking-coach.agent.yaml"
+  },
+  "bmad-cis-dr.-quinn": {
+    "id": "bmad-cis-dr.-quinn",
+    "name": "Dr. Quinn",
+    "title": "Master Problem Solver",
+    "icon": "🔬",
+    "module": "cis",
+    "role": "Systematic Problem-Solving Expert + Solutions Architect",
+    "filePath": "src/modules/cis/agents/creative-problem-solver.agent.yaml"
+  },
+  "bmad-cis-carson": {
+    "id": "bmad-cis-carson",
+    "name": "Carson",
+    "title": "Elite Brainstorming Specialist",
+    "icon": "🧠",
+    "module": "cis",
+    "role": "Master Brainstorming Facilitator + Innovation Catalyst",
+    "filePath": "src/modules/cis/agents/brainstorming-coach.agent.yaml"
+  },
+  "bmad-bmm-sally": {
+    "id": "bmad-bmm-sally",
+    "name": "Sally",
+    "title": "UX Expert",
+    "icon": "🎨",
+    "module": "bmm",
+    "role": "User Experience Designer + UI Specialist",
+    "filePath": "src/modules/bmm/agents/ux-expert.agent.yaml"
+  },
+  "bmad-bmm-murat": {
+    "id": "bmad-bmm-murat",
+    "name": "Murat",
+    "title": "Master Test Architect",
+    "icon": "🧪",
+    "module": "bmm",
+    "role": "Master Test Architect",
+    "filePath": "src/modules/bmm/agents/tea.agent.yaml"
+  },
+  "bmad-bmm-bob": {
+    "id": "bmad-bmm-bob",
+    "name": "Bob",
+    "title": "Scrum Master",
+    "icon": "🏃",
+    "module": "bmm",
+    "role": "Technical Scrum Master + Story Preparation Specialist",
+    "filePath": "src/modules/bmm/agents/sm.agent.yaml"
+  },
+  "bmad-bmm-john": {
+    "id": "bmad-bmm-john",
+    "name": "John",
+    "title": "Product Manager",
+    "icon": "📋",
+    "module": "bmm",
+    "role": "Investigative Product Strategist + Market-Savvy PM",
+    "filePath": "src/modules/bmm/agents/pm.agent.yaml"
+  },
+  "bmad-bmm-link-freeman": {
+    "id": "bmad-bmm-link-freeman",
+    "name": "Link Freeman",
+    "title": "Game Developer",
+    "icon": "🕹️",
+    "module": "bmm",
+    "role": "Senior Game Developer + Technical Implementation Specialist",
+    "filePath": "src/modules/bmm/agents/game-dev.agent.yaml"
+  },
+  "bmad-bmm-samus-shepard": {
+    "id": "bmad-bmm-samus-shepard",
+    "name": "Samus Shepard",
+    "title": "Game Designer",
+    "icon": "🎲",
+    "module": "bmm",
+    "role": "Lead Game Designer + Creative Vision Architect",
+    "filePath": "src/modules/bmm/agents/game-designer.agent.yaml"
+  },
+  "bmad-bmm-cloud-dragonborn": {
+    "id": "bmad-bmm-cloud-dragonborn",
+    "name": "Cloud Dragonborn",
+    "title": "Game Architect",
+    "icon": "🏛️",
+    "module": "bmm",
+    "role": "Principal Game Systems Architect + Technical Director",
+    "filePath": "src/modules/bmm/agents/game-architect.agent.yaml"
+  },
+  "bmad-bmm-amelia": {
+    "id": "bmad-bmm-amelia",
+    "name": "Amelia",
+    "title": "Developer Agent",
+    "icon": "💻",
+    "module": "bmm",
+    "role": "Senior Implementation Engineer",
+    "filePath": "src/modules/bmm/agents/dev.agent.yaml"
+  },
+  "bmad-bmm-winston": {
+    "id": "bmad-bmm-winston",
+    "name": "Winston",
+    "title": "Architect",
+    "icon": "🏗️",
+    "module": "bmm",
+    "role": "System Architect + Technical Design Leader",
+    "filePath": "src/modules/bmm/agents/architect.agent.yaml"
+  },
+  "bmad-bmm-mary": {
+    "id": "bmad-bmm-mary",
+    "name": "Mary",
+    "title": "Business Analyst",
+    "icon": "📊",
+    "module": "bmm",
+    "role": "Strategic Business Analyst + Requirements Expert",
+    "filePath": "src/modules/bmm/agents/analyst.agent.yaml"
+  },
+  "bmad-bmb-bmad-builder": {
+    "id": "bmad-bmb-bmad-builder",
+    "name": "BMad Builder",
+    "title": "BMad Builder",
+    "icon": "🧙",
+    "module": "bmb",
+    "role": "Master BMad Module Agent Team and Workflow Builder and Maintainer",
+    "filePath": "src/modules/bmb/agents/bmad-builder.agent.yaml"
+  }
+}
